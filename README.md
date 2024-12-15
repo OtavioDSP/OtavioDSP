@@ -1,8 +1,11 @@
 ## Hi there 👋
+<div align="center">
 
-![Loonagithub-ezgif com-crop(1)](https://github.com/user-attachments/assets/426d73ab-b6e0-4cba-b9c0-97edcf3a50b7)
+![Loonagithub-ezgif com-crop(1)](https://github.com/user-attachments/assets/cce36167-0847-4917-82ff-96a43696d8d0)
 
-<!--
+
+</div>
+
 **OtavioDSP/OtavioDSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

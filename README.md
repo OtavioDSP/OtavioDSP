@@ -45,11 +45,25 @@ Afinal, acredito que tenho muita criatividade para criar narrativas envolventes 
   
 ![Loonagithub-ezgif com-crop(2)](https://github.com/user-attachments/assets/a30df436-0c45-4b45-a5da-cd80943e7064)
 
-<p color="gray">Essa é a Loona (tanto o personagem quanto a arte não são de minha autoria)</p>
-
+<p color=gray>Essa é a Loona (tanto o personagem quanto a arte não são de minha autoria)</p>
 
 </div>
 
+
+<div align="center">
+  <h2>Portifolio</h2>
+  
+   - [Pacheco Cursos e treinamentos](https://github.com/OtavioDSP/pacheco-cursos-e-treinamentos)
+  
+  - [Comics da Izzy](https://github.com/OtavioDSP/comics-da-izzy)
+  
+  - [Calculadora de Binarios](https://github.com/OtavioDSP/calculadora-de-binarios)
+  
+</div>
+
+
+
+***
 <br>
 <div align="center">
   <h5>Front-end</h5>
@@ -84,9 +98,21 @@ Afinal, acredito que tenho muita criatividade para criar narrativas envolventes 
 
 
 
-
-<div>  
+<details>
+  <summary>Contato</summary>
   
-
-
+  <a href="https://www.instagram.com/testarossa.otavio/profilecard/?igsh=Z253dnpjdnhoNm1y" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="52" height="40" alt="instagram logo" />
+</a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+###
+  
+</details>
+
+
+
+

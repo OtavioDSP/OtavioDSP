@@ -4,28 +4,34 @@
   
 </div>
 <br>
+<div align="center">
+<h3>Olá! me chamo Otavio!</h3>
+<p>
+Sou um estudante de programação no <a href="https://www.google.com/maps/place/IFSul+Campus+Cavg/@-31.7166985,-52.3095334,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNXWJGhLO3rdikFIK4EvBbjad8mFgI5ddt7emtP!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNXWJGhLO3rdikFIK4EvBbjad8mFgI5ddt7emtP%3Dw114-h86-k-no!7i4000!8i3000!4m11!1m2!2m1!1sifsul+cavg!3m7!1s0x9511b5c0157e473f:0xd2967984e61688da!8m2!3d-31.7165169!4d-52.3097135!10e5!15sCgppZnN1bCBjYXZnkgEHY29sbGVnZeABAA!16s%2Fg%2F11tg0psp6g?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Ifsul CAVG</a> gosto de tecnologia desde pequeno e sempre quis trabalhar na area.
+<p>
+</div>
 
-  ### Olá me chamo Otavio
-  <p>
-  Sou um estudante de programação no <a href="https://www.google.com/maps/place/IFSul+Campus+Cavg/@-31.7166985,-52.3095334,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNXWJGhLO3rdikFIK4EvBbjad8mFgI5ddt7emtP!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNXWJGhLO3rdikFIK4EvBbjad8mFgI5ddt7emtP%3Dw114-h86-k-no!7i4000!8i3000!4m11!1m2!2m1!1sifsul+cavg!3m7!1s0x9511b5c0157e473f:0xd2967984e61688da!8m2!3d-31.7165169!4d-52.3097135!10e5!15sCgppZnN1bCBjYXZnkgEHY29sbGVnZeABAA!16s%2Fg%2F11tg0psp6g?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">
-  Ifsul CAVG
-</a>
+***
+<div align="center">
+<h3>Objetivo:</h3>
+<p>
+Aqui está uma versão revisada do texto para maior clareza, gramática e fluidez:
 
+Minha história com programação começou ainda nos videogames. Sempre fiquei fascinado pelas possibilidades que os jogos oferecem e como eles nos fazem sentir incluídos em mundos diferentes, repletos de histórias e costumes totalmente novos. Por causa dessa paixão, hoje busco uma oportunidade de trabalho na área de TI para futuramente trabalhar com desenvolvimento de jogos.
+Afinal, acredito que tenho muita criatividade para criar narrativas envolventes e cenários imersivos, características que considero essenciais para transformar ideias em experiências incríveis dentro dos games.
+<p>
+</div>
 
-
-  
-  
-  <p>
  
 <details>
-  <summary>Sobre mim</summary>
+  <summary>mais sobre mim</summary>
 
 
   - 🔭 I’m currently working on [CPP](https://github.com/OtavioDSP/CPP)
   
-  - 🌱 I’m currently learning  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="25" align="middle" alt="cplusplus logo"/>
+  - 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="25" align="middle" alt="cplusplus logo"/>
   
-  - 🤔 I’m looking for help with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="25" align="middle" alt="cplusplus logo"/>
+  - 🤔 I’m looking for help with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="25" align="middle" alt="cplusplus logo"/>
   
 </details>
 

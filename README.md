@@ -11,12 +11,10 @@ Sou um estudante de programação no <a href="https://www.google.com/maps/place/
 <p>
 </div>
 
-***
+
 <div align="center">
 <h3>Objetivo:</h3>
 <p>
-Aqui está uma versão revisada do texto para maior clareza, gramática e fluidez:
-
 Minha história com programação começou ainda nos videogames. Sempre fiquei fascinado pelas possibilidades que os jogos oferecem e como eles nos fazem sentir incluídos em mundos diferentes, repletos de histórias e costumes totalmente novos. Por causa dessa paixão, hoje busco uma oportunidade de trabalho na área de TI para futuramente trabalhar com desenvolvimento de jogos.
 Afinal, acredito que tenho muita criatividade para criar narrativas envolventes e cenários imersivos, características que considero essenciais para transformar ideias em experiências incríveis dentro dos games.
 <p>
@@ -36,22 +34,19 @@ Afinal, acredito que tenho muita criatividade para criar narrativas envolventes 
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-
+***
 <div align="center">
+<p>
+  Agora, por favor, permitam que a minha fiel assistente Loona os apresente os meus projetos e Tecnologias que gosto, uso ou pretendo me aprofundar.
+</p>
   
 ![Loonagithub-ezgif com-crop(2)](https://github.com/user-attachments/assets/a30df436-0c45-4b45-a5da-cd80943e7064)
 
+<p color="gray">Essa é a Loona (tanto o personagem quanto a arte não são de minha autoria)</p>
+
+
 </div>
+
 
 <div align="center">
 <div align="left">
